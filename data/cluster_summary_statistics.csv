@@ -1,0 +1,8 @@
+,,CustomerID,Age,Age,Age,Annual_Income,Annual_Income,Annual_Income,Spending_Score,Spending_Score,Spending_Score
+,,count,mean,min,max,mean,min,max,mean,min,max
+Cluster,Cluster_Name,,,,,,,,,,
+0,"Middle Income, Average Spenders",81,42.72,18,70,55296.3,39000,76000,49.52,34,61
+1,"High Income, High Spenders",39,32.69,27,40,86538.46,69000,137000,82.13,63,97
+2,"Low Income, High Spenders",22,25.27,18,35,25727.27,15000,39000,79.36,61,99
+3,"High Income, Low Spenders",35,41.11,19,59,88200.0,70000,137000,17.11,1,39
+4,"Low Income, Low Spenders",23,45.22,19,67,26304.35,15000,39000,20.91,3,40

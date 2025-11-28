@@ -1,0 +1,24 @@
+CustomerID,Gender,Age,Annual_Income,Spending_Score,Cluster,Cluster_Name
+1,Male,19,15000,39,4,Price-Sensitive Segment
+3,Female,20,16000,6,4,Price-Sensitive Segment
+5,Female,31,17000,40,4,Price-Sensitive Segment
+7,Female,35,18000,6,4,Price-Sensitive Segment
+9,Male,64,19000,3,4,Price-Sensitive Segment
+11,Male,67,19000,14,4,Price-Sensitive Segment
+13,Female,58,20000,15,4,Price-Sensitive Segment
+15,Male,37,20000,13,4,Price-Sensitive Segment
+17,Female,35,21000,35,4,Price-Sensitive Segment
+19,Male,52,23000,29,4,Price-Sensitive Segment
+21,Male,35,24000,35,4,Price-Sensitive Segment
+23,Female,46,25000,5,4,Price-Sensitive Segment
+25,Female,54,28000,14,4,Price-Sensitive Segment
+27,Female,45,28000,32,4,Price-Sensitive Segment
+29,Female,40,29000,31,4,Price-Sensitive Segment
+31,Male,60,30000,4,4,Price-Sensitive Segment
+33,Male,53,33000,4,4,Price-Sensitive Segment
+35,Female,49,33000,14,4,Price-Sensitive Segment
+37,Female,42,34000,17,4,Price-Sensitive Segment
+39,Female,36,37000,26,4,Price-Sensitive Segment
+41,Female,65,38000,35,4,Price-Sensitive Segment
+43,Male,48,39000,36,4,Price-Sensitive Segment
+45,Female,49,39000,28,4,Price-Sensitive Segment

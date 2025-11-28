@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual_Income_k,Spending_Score,Annual_Income,Cluster,Cluster_Name
+1,Male,19,15,39,15000,4,Price-Sensitive Segment
+2,Male,21,15,81,15000,2,High-Engagement Low-Income
+3,Female,20,16,6,16000,4,Price-Sensitive Segment
+4,Female,23,16,77,16000,2,High-Engagement Low-Income
+5,Female,31,17,40,17000,4,Price-Sensitive Segment
+6,Female,22,17,76,17000,2,High-Engagement Low-Income
+7,Female,35,18,6,18000,4,Price-Sensitive Segment
+8,Female,23,18,94,18000,2,High-Engagement Low-Income
+9,Male,64,19,3,19000,4,Price-Sensitive Segment
+10,Female,30,19,72,19000,2,High-Engagement Low-Income
+11,Male,67,19,14,19000,4,Price-Sensitive Segment
+12,Female,35,19,99,19000,2,High-Engagement Low-Income
+13,Female,58,20,15,20000,4,Price-Sensitive Segment
+14,Female,24,20,77,20000,2,High-Engagement Low-Income
+15,Male,37,20,13,20000,4,Price-Sensitive Segment
+16,Male,22,20,79,20000,2,High-Engagement Low-Income
+17,Female,35,21,35,21000,4,Price-Sensitive Segment
+18,Male,20,21,66,21000,2,High-Engagement Low-Income
+19,Male,52,23,29,23000,4,Price-Sensitive Segment
+20,Female,35,23,98,23000,2,High-Engagement Low-Income
+21,Male,35,24,35,24000,4,Price-Sensitive Segment
+22,Male,25,24,73,24000,2,High-Engagement Low-Income
+23,Female,46,25,5,25000,4,Price-Sensitive Segment
+24,Male,31,25,73,25000,2,High-Engagement Low-Income
+25,Female,54,28,14,28000,4,Price-Sensitive Segment
+26,Male,29,28,82,28000,2,High-Engagement Low-Income
+27,Female,45,28,32,28000,4,Price-Sensitive Segment
+28,Male,35,28,61,28000,2,High-Engagement Low-Income
+29,Female,40,29,31,29000,4,Price-Sensitive Segment
+30,Female,23,29,87,29000,2,High-Engagement Low-Income
+31,Male,60,30,4,30000,4,Price-Sensitive Segment
+32,Female,21,30,73,30000,2,High-Engagement Low-Income
+33,Male,53,33,4,33000,4,Price-Sensitive Segment
+34,Male,18,33,92,33000,2,High-Engagement Low-Income
+35,Female,49,33,14,33000,4,Price-Sensitive Segment
+36,Female,21,33,81,33000,2,High-Engagement Low-Income
+37,Female,42,34,17,34000,4,Price-Sensitive Segment
+38,Female,30,34,73,34000,2,High-Engagement Low-Income
+39,Female,36,37,26,37000,4,Price-Sensitive Segment
+40,Female,20,37,75,37000,2,High-Engagement Low-Income
+41,Female,65,38,35,38000,4,Price-Sensitive Segment
+42,Male,24,38,92,38000,2,High-Engagement Low-Income
+43,Male,48,39,36,39000,4,Price-Sensitive Segment
+44,Female,31,39,61,39000,0,Core Customer Base
+45,Female,49,39,28,39000,4,Price-Sensitive Segment
+46,Female,24,39,65,39000,2,High-Engagement Low-Income
+47,Female,50,40,55,40000,0,Core Customer Base
+48,Female,27,40,47,40000,0,Core Customer Base
+49,Female,29,40,42,40000,0,Core Customer Base
+50,Female,31,40,42,40000,0,Core Customer Base
+51,Female,49,42,52,42000,0,Core Customer Base
+52,Male,33,42,60,42000,0,Core Customer Base
+53,Female,31,43,54,43000,0,Core Customer Base
+54,Male,59,43,60,43000,0,Core Customer Base
+55,Female,50,43,45,43000,0,Core Customer Base
+56,Male,47,43,41,43000,0,Core Customer Base
+57,Female,51,44,50,44000,0,Core Customer Base
+58,Male,69,44,46,44000,0,Core Customer Base
+59,Female,27,46,51,46000,0,Core Customer Base
+60,Male,53,46,46,46000,0,Core Customer Base
+61,Male,70,46,56,46000,0,Core Customer Base
+62,Male,19,46,55,46000,0,Core Customer Base
+63,Female,67,47,52,47000,0,Core Customer Base
+64,Female,54,47,59,47000,0,Core Customer Base
+65,Male,63,48,51,48000,0,Core Customer Base
+66,Male,18,48,59,48000,0,Core Customer Base
+67,Female,43,48,50,48000,0,Core Customer Base
+68,Female,68,48,48,48000,0,Core Customer Base
+69,Male,19,48,59,48000,0,Core Customer Base
+70,Female,32,48,47,48000,0,Core Customer Base
+71,Male,70,49,55,49000,0,Core Customer Base
+72,Female,47,49,42,49000,0,Core Customer Base
+73,Female,60,50,49,50000,0,Core Customer Base
+74,Female,60,50,56,50000,0,Core Customer Base
+75,Male,59,54,47,54000,0,Core Customer Base
+76,Male,26,54,54,54000,0,Core Customer Base
+77,Female,45,54,53,54000,0,Core Customer Base
+78,Male,40,54,48,54000,0,Core Customer Base
+79,Female,23,54,52,54000,0,Core Customer Base
+80,Female,49,54,42,54000,0,Core Customer Base
+81,Male,57,54,51,54000,0,Core Customer Base
+82,Male,38,54,55,54000,0,Core Customer Base
+83,Male,67,54,41,54000,0,Core Customer Base
+84,Female,46,54,44,54000,0,Core Customer Base
+85,Female,21,54,57,54000,0,Core Customer Base
+86,Male,48,54,46,54000,0,Core Customer Base
+87,Female,55,57,58,57000,0,Core Customer Base
+88,Female,22,57,55,57000,0,Core Customer Base
+89,Female,34,58,60,58000,0,Core Customer Base
+90,Female,50,58,46,58000,0,Core Customer Base
+91,Female,68,59,55,59000,0,Core Customer Base
+92,Male,18,59,41,59000,0,Core Customer Base
+93,Male,48,60,49,60000,0,Core Customer Base
+94,Female,40,60,40,60000,0,Core Customer Base
+95,Female,32,60,42,60000,0,Core Customer Base
+96,Male,24,60,52,60000,0,Core Customer Base
+97,Female,47,60,47,60000,0,Core Customer Base
+98,Female,27,60,50,60000,0,Core Customer Base
+99,Male,48,61,42,61000,0,Core Customer Base
+100,Male,20,61,49,61000,0,Core Customer Base
+101,Female,23,62,41,62000,0,Core Customer Base
+102,Female,49,62,48,62000,0,Core Customer Base
+103,Male,67,62,59,62000,0,Core Customer Base
+104,Male,26,62,55,62000,0,Core Customer Base
+105,Male,49,62,56,62000,0,Core Customer Base
+106,Female,21,62,42,62000,0,Core Customer Base
+107,Female,66,63,50,63000,0,Core Customer Base
+108,Male,54,63,46,63000,0,Core Customer Base
+109,Male,68,63,43,63000,0,Core Customer Base
+110,Male,66,63,48,63000,0,Core Customer Base
+111,Male,65,63,52,63000,0,Core Customer Base
+112,Female,19,63,54,63000,0,Core Customer Base
+113,Female,38,64,42,64000,0,Core Customer Base
+114,Male,19,64,46,64000,0,Core Customer Base
+115,Female,18,65,48,65000,0,Core Customer Base
+116,Female,19,65,50,65000,0,Core Customer Base
+117,Female,63,65,43,65000,0,Core Customer Base
+118,Female,49,65,59,65000,0,Core Customer Base
+119,Female,51,67,43,67000,0,Core Customer Base
+120,Female,50,67,57,67000,0,Core Customer Base
+121,Male,27,67,56,67000,0,Core Customer Base
+122,Female,38,67,40,67000,0,Core Customer Base
+123,Female,40,69,58,69000,0,Core Customer Base
+124,Male,39,69,91,69000,1,High-Value Segment
+125,Female,23,70,29,70000,3,Low-Engagement High-Income
+126,Female,31,70,77,70000,1,High-Value Segment
+127,Male,43,71,35,71000,0,Core Customer Base
+128,Male,40,71,95,71000,1,High-Value Segment
+129,Male,59,71,11,71000,3,Low-Engagement High-Income
+130,Male,38,71,75,71000,1,High-Value Segment
+131,Male,47,71,9,71000,3,Low-Engagement High-Income
+132,Male,39,71,75,71000,1,High-Value Segment
+133,Female,25,72,34,72000,0,Core Customer Base
+134,Female,31,72,71,72000,1,High-Value Segment
+135,Male,20,73,5,73000,3,Low-Engagement High-Income
+136,Female,29,73,88,73000,1,High-Value Segment
+137,Female,44,73,7,73000,3,Low-Engagement High-Income
+138,Male,32,73,73,73000,1,High-Value Segment
+139,Male,19,74,10,74000,3,Low-Engagement High-Income
+140,Female,35,74,72,74000,1,High-Value Segment
+141,Female,57,75,5,75000,3,Low-Engagement High-Income
+142,Male,32,75,93,75000,1,High-Value Segment
+143,Female,28,76,40,76000,0,Core Customer Base
+144,Female,32,76,87,76000,1,High-Value Segment
+145,Male,25,77,12,77000,3,Low-Engagement High-Income
+146,Male,28,77,97,77000,1,High-Value Segment
+147,Male,48,77,36,77000,3,Low-Engagement High-Income
+148,Female,32,77,74,77000,1,High-Value Segment
+149,Female,34,78,22,78000,3,Low-Engagement High-Income
+150,Male,34,78,90,78000,1,High-Value Segment
+151,Male,43,78,17,78000,3,Low-Engagement High-Income
+152,Male,39,78,88,78000,1,High-Value Segment
+153,Female,44,78,20,78000,3,Low-Engagement High-Income
+154,Female,38,78,76,78000,1,High-Value Segment
+155,Female,47,78,16,78000,3,Low-Engagement High-Income
+156,Female,27,78,89,78000,1,High-Value Segment
+157,Male,37,78,1,78000,3,Low-Engagement High-Income
+158,Female,30,78,78,78000,1,High-Value Segment
+159,Male,34,78,1,78000,3,Low-Engagement High-Income
+160,Female,30,78,73,78000,1,High-Value Segment
+161,Female,56,79,35,79000,3,Low-Engagement High-Income
+162,Female,29,79,83,79000,1,High-Value Segment
+163,Male,19,81,5,81000,3,Low-Engagement High-Income
+164,Female,31,81,93,81000,1,High-Value Segment
+165,Male,50,85,26,85000,3,Low-Engagement High-Income
+166,Female,36,85,75,85000,1,High-Value Segment
+167,Male,42,86,20,86000,3,Low-Engagement High-Income
+168,Female,33,86,95,86000,1,High-Value Segment
+169,Female,36,87,27,87000,3,Low-Engagement High-Income
+170,Male,32,87,63,87000,1,High-Value Segment
+171,Male,40,87,13,87000,3,Low-Engagement High-Income
+172,Male,28,87,75,87000,1,High-Value Segment
+173,Male,36,87,10,87000,3,Low-Engagement High-Income
+174,Male,36,87,92,87000,1,High-Value Segment
+175,Female,52,88,13,88000,3,Low-Engagement High-Income
+176,Female,30,88,86,88000,1,High-Value Segment
+177,Male,58,88,15,88000,3,Low-Engagement High-Income
+178,Male,27,88,69,88000,1,High-Value Segment
+179,Male,59,93,14,93000,3,Low-Engagement High-Income
+180,Male,35,93,90,93000,1,High-Value Segment
+181,Female,37,97,32,97000,3,Low-Engagement High-Income
+182,Female,32,97,86,97000,1,High-Value Segment
+183,Male,46,98,15,98000,3,Low-Engagement High-Income
+184,Female,29,98,88,98000,1,High-Value Segment
+185,Female,41,99,39,99000,3,Low-Engagement High-Income
+186,Male,30,99,97,99000,1,High-Value Segment
+187,Female,54,101,24,101000,3,Low-Engagement High-Income
+188,Male,28,101,68,101000,1,High-Value Segment
+189,Female,41,103,17,103000,3,Low-Engagement High-Income
+190,Female,36,103,85,103000,1,High-Value Segment
+191,Female,34,103,23,103000,3,Low-Engagement High-Income
+192,Female,32,103,69,103000,1,High-Value Segment
+193,Male,33,113,8,113000,3,Low-Engagement High-Income
+194,Female,38,113,91,113000,1,High-Value Segment
+195,Female,47,120,16,120000,3,Low-Engagement High-Income
+196,Female,35,120,79,120000,1,High-Value Segment
+197,Female,45,126,28,126000,3,Low-Engagement High-Income
+198,Male,32,126,74,126000,1,High-Value Segment
+199,Male,32,137,18,137000,3,Low-Engagement High-Income
+200,Male,30,137,83,137000,1,High-Value Segment

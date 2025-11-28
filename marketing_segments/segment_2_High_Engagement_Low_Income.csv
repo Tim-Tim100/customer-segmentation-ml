@@ -1,0 +1,23 @@
+CustomerID,Gender,Age,Annual_Income,Spending_Score,Cluster,Cluster_Name
+2,Male,21,15000,81,2,High-Engagement Low-Income
+4,Female,23,16000,77,2,High-Engagement Low-Income
+6,Female,22,17000,76,2,High-Engagement Low-Income
+8,Female,23,18000,94,2,High-Engagement Low-Income
+10,Female,30,19000,72,2,High-Engagement Low-Income
+12,Female,35,19000,99,2,High-Engagement Low-Income
+14,Female,24,20000,77,2,High-Engagement Low-Income
+16,Male,22,20000,79,2,High-Engagement Low-Income
+18,Male,20,21000,66,2,High-Engagement Low-Income
+20,Female,35,23000,98,2,High-Engagement Low-Income
+22,Male,25,24000,73,2,High-Engagement Low-Income
+24,Male,31,25000,73,2,High-Engagement Low-Income
+26,Male,29,28000,82,2,High-Engagement Low-Income
+28,Male,35,28000,61,2,High-Engagement Low-Income
+30,Female,23,29000,87,2,High-Engagement Low-Income
+32,Female,21,30000,73,2,High-Engagement Low-Income
+34,Male,18,33000,92,2,High-Engagement Low-Income
+36,Female,21,33000,81,2,High-Engagement Low-Income
+38,Female,30,34000,73,2,High-Engagement Low-Income
+40,Female,20,37000,75,2,High-Engagement Low-Income
+42,Male,24,38000,92,2,High-Engagement Low-Income
+46,Female,24,39000,65,2,High-Engagement Low-Income
